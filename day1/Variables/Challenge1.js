@@ -9,3 +9,23 @@ console.log ("Niveau :" + Niveau);
 console.log ( "Age :" + Age);
 console.log ("Score :" + Score);
 console.log ("Pays :" + Pays);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

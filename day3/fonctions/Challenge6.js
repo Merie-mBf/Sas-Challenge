@@ -1,0 +1,1 @@
+//les methodes string = une function disponible qu on applique sur du texte

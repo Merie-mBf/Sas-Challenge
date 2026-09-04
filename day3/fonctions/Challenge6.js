@@ -6,8 +6,6 @@ let result = verifierMotDePasse(motDePasse);
 
 result ? console.log("true") :  console.log("false") ;
 
-
-
 function getUserInput(){
     let motDePasse= prompt('entrez un mot de passe :  ');
     return motDePasse;
@@ -21,9 +19,5 @@ function verifierMotDePasse(motDePasse) {
         return false;
     }
 }
-
-
-
-
 
 verifierMotDePasse(motDePasse);

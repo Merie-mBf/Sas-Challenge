@@ -3,9 +3,10 @@ function calculerSomme(tab){
     for(i=0; i<tab.length; i++){
         somme+=tab[i];
     }
-    console.log(somme);
+    return somme;
+
 }
-calculerSomme([1, 23, 456, 7,89, 87])
+console.log(calculerSomme([1, 23, 456, 7,89, 87]))
 
 
 
